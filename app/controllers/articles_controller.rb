@@ -18,7 +18,7 @@ class ArticlesController < ApplicationController
   end
 
   # GET /articles/1/edit
-  def edi
+  def ed
   end
 
   # POST /articles
