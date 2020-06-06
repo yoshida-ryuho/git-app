@@ -9,7 +9,7 @@ class ArticlesController < ApplicationController
 
   # GET /articles/1
   # GET /articles/1.json
-  def show
+  def sh
   end
 
   # GET /articles/new
